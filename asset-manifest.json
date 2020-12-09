@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dr-explorer-demo/static/css/main.64475087.chunk.css",
+    "main.js": "/dr-explorer-demo/static/js/main.9e743fb3.chunk.js",
+    "main.js.map": "/dr-explorer-demo/static/js/main.9e743fb3.chunk.js.map",
+    "runtime-main.js": "/dr-explorer-demo/static/js/runtime-main.46f55134.js",
+    "runtime-main.js.map": "/dr-explorer-demo/static/js/runtime-main.46f55134.js.map",
+    "static/js/2.9d50393a.chunk.js": "/dr-explorer-demo/static/js/2.9d50393a.chunk.js",
+    "static/js/2.9d50393a.chunk.js.map": "/dr-explorer-demo/static/js/2.9d50393a.chunk.js.map",
+    "static/js/3.268cd0b6.chunk.js": "/dr-explorer-demo/static/js/3.268cd0b6.chunk.js",
+    "static/js/3.268cd0b6.chunk.js.map": "/dr-explorer-demo/static/js/3.268cd0b6.chunk.js.map",
+    "index.html": "/dr-explorer-demo/index.html",
+    "static/css/main.64475087.chunk.css.map": "/dr-explorer-demo/static/css/main.64475087.chunk.css.map",
+    "static/js/2.9d50393a.chunk.js.LICENSE.txt": "/dr-explorer-demo/static/js/2.9d50393a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46f55134.js",
+    "static/js/2.9d50393a.chunk.js",
+    "static/css/main.64475087.chunk.css",
+    "static/js/main.9e743fb3.chunk.js"
+  ]
+}
