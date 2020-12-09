@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/dr-explorer-demo/static/css/main.64475087.chunk.css",
-    "main.js": "/dr-explorer-demo/static/js/main.9e743fb3.chunk.js",
-    "main.js.map": "/dr-explorer-demo/static/js/main.9e743fb3.chunk.js.map",
-    "runtime-main.js": "/dr-explorer-demo/static/js/runtime-main.46f55134.js",
-    "runtime-main.js.map": "/dr-explorer-demo/static/js/runtime-main.46f55134.js.map",
-    "static/js/2.9d50393a.chunk.js": "/dr-explorer-demo/static/js/2.9d50393a.chunk.js",
-    "static/js/2.9d50393a.chunk.js.map": "/dr-explorer-demo/static/js/2.9d50393a.chunk.js.map",
-    "static/js/3.268cd0b6.chunk.js": "/dr-explorer-demo/static/js/3.268cd0b6.chunk.js",
-    "static/js/3.268cd0b6.chunk.js.map": "/dr-explorer-demo/static/js/3.268cd0b6.chunk.js.map",
+    "main.css": "/dr-explorer-demo/static/css/main.500bc5e5.chunk.css",
+    "main.js": "/dr-explorer-demo/static/js/main.a09683b6.chunk.js",
+    "main.js.map": "/dr-explorer-demo/static/js/main.a09683b6.chunk.js.map",
+    "runtime-main.js": "/dr-explorer-demo/static/js/runtime-main.6d3c74ff.js",
+    "runtime-main.js.map": "/dr-explorer-demo/static/js/runtime-main.6d3c74ff.js.map",
+    "static/js/2.da0d4610.chunk.js": "/dr-explorer-demo/static/js/2.da0d4610.chunk.js",
+    "static/js/2.da0d4610.chunk.js.map": "/dr-explorer-demo/static/js/2.da0d4610.chunk.js.map",
+    "static/js/3.f68116c4.chunk.js": "/dr-explorer-demo/static/js/3.f68116c4.chunk.js",
+    "static/js/3.f68116c4.chunk.js.map": "/dr-explorer-demo/static/js/3.f68116c4.chunk.js.map",
     "index.html": "/dr-explorer-demo/index.html",
-    "static/css/main.64475087.chunk.css.map": "/dr-explorer-demo/static/css/main.64475087.chunk.css.map",
-    "static/js/2.9d50393a.chunk.js.LICENSE.txt": "/dr-explorer-demo/static/js/2.9d50393a.chunk.js.LICENSE.txt"
+    "static/css/main.500bc5e5.chunk.css.map": "/dr-explorer-demo/static/css/main.500bc5e5.chunk.css.map",
+    "static/js/2.da0d4610.chunk.js.LICENSE.txt": "/dr-explorer-demo/static/js/2.da0d4610.chunk.js.LICENSE.txt",
+    "static/media/mnist_sampled_10_isomap.png": "/dr-explorer-demo/static/media/mnist_sampled_10_isomap.17dbb787.png",
+    "static/media/mnist_sampled_10_pca.png": "/dr-explorer-demo/static/media/mnist_sampled_10_pca.45f130db.png",
+    "static/media/mnist_sampled_10_tsne.png": "/dr-explorer-demo/static/media/mnist_sampled_10_tsne.f0dd4400.png",
+    "static/media/mnist_sampled_10_umap.png": "/dr-explorer-demo/static/media/mnist_sampled_10_umap.3ed76db7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.46f55134.js",
-    "static/js/2.9d50393a.chunk.js",
-    "static/css/main.64475087.chunk.css",
-    "static/js/main.9e743fb3.chunk.js"
+    "static/js/runtime-main.6d3c74ff.js",
+    "static/js/2.da0d4610.chunk.js",
+    "static/css/main.500bc5e5.chunk.css",
+    "static/js/main.a09683b6.chunk.js"
   ]
 }
